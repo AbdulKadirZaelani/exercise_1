@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">exercice1</string>
+    <string name="lgnEmail">Email</string>
+    <string name="lgnPassword">Password</string>
+    <string name="lgnButton">Login</string>
+    <string name="lgnBdaftar">Belum terdaftar ?</string>
+    <string name="pnNama">Masukan Nama</string>
+    <string name="pnAlamat">Masukan Alamat</string>
+    <string name="pnEmail">Masukan Email</string>
+    <string name="pnPassword">Masukan Password</string>
+    <string name="pnPassKembali">Masukan Password Kembali</string>
+    <string name="pnBatal">Batal</string>
+    <string name="pnDaftar">Daftar</string>
+    <string name="pnJeniskelamin">Jenis Kelmain</string>
+    <string name="pnAgama">Agama</string>
+    <string name="rbLaki">Laki Laki</string>
+    <string name="rbPerempuan">Perempuan</string>
+    <string name="rbIslam">Islam</string>
+    <string name="rbKatholik">Katholik</string>
+    <string name="rbKristen">Kristen</string>
+    <string name="rbBudha">Budha</string>
+    <string name="rbHindu">Hindu</string>
+    <string name="rbKanghocu">Kanghocu</string>
+
+
+
+
+
+
+</resources>
